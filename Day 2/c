@@ -1,0 +1,18 @@
+	<option value="ABASHA" city="TIFLIS">ABASHA (GEORGIA)</option>
+	<option value="BATUM" city="TIFLIS">BATUMI (GEORGIA)</option>
+	<option value="BATUMSARP" city="TIFLIS">BATUMISARP (GEORGIA)</option>
+	<option value="GORI" city="TIFLIS">GORI (GEORGIA)</option>
+	<option value="KHASHURI" city="TIFLIS">KHASHURI (GEORGIA)</option>
+	<option value="KHOBI" city="TIFLIS">KHOBI (GEORGIA)</option>
+	<option value="KOBULETI" city="TIFLIS">KOBULETI (GEORGIA)</option>
+	<option value="KUTAISI" city="TIFLIS">KUTAISI AEROPORT (GEORGIA)</option>
+	<option value="LANCKHUTI" city="TIFLIS">LANCKHUTI (GEORGIA)</option>
+	<option value="POTI" city="TIFLIS">POTI (GEORGIA)</option>
+	<option value="SAMTREDIA" city="TIFLIS">SAMTREDIA (GEORGIA)</option>
+	<option value="SENAKI" city="TIFLIS">SENAKI (GEORGIA)</option>
+	<option selected="selected" value="TIFLIS" city="TIFLIS">TBILISI (GEORGIA)</option>
+	<option value="UREKI" city="TIFLIS">UREKI (GEORGIA)</option>
+	<option value="ZESTAFONI" city="TIFLIS">ZESTAFONI (GEORGIA)</option>
+	<option value="ZUGDIDI" city="TIFLIS">ZUGDIDI (GEORGIA)</option>
+
+</select>
