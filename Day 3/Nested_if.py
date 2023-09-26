@@ -20,4 +20,5 @@ if height >=120:
     
 else:
     print("please wait until given height")
-            
+    print("please wait until given height")
+        x
