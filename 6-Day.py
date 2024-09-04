@@ -62,6 +62,6 @@ while loop>0 :
 
 
 def jump():
-    print('heloo')
+    print('hello')
     
 jump()
