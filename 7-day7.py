@@ -25,6 +25,7 @@ while not gameover:
     for letter in chose_word:
         if letter== guess:
             display += letter
+            correct_letter.append(letter)
         else:
             display +="-"
 
@@ -33,5 +34,4 @@ while not gameover:
         gameover=True
         print("you Win")
     else:
-# 
-#
+        print("Try Again")
