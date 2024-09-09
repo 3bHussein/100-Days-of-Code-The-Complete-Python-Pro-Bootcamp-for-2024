@@ -24,3 +24,4 @@ for letter in chose_word:
 
 print(display)
 # 
+#
