@@ -26,14 +26,17 @@ while not gameover:
         if letter== guess:
             display += letter
             correct_letter.append(letter)
+        elif letter in correct_letter:
+            display += letter
         else:
             display +="-"
 
     print(display)
-    if "_" not in display:
-        gameover=True
-        print("you Win")
-    else:
-        print("Try Again")
+    # if "_" not in display:
+    #     gameover=True
+    #     print(display,"this is display")
+    #     print("you Win")
+    # else:
+    #     print("Try Again")
 
 #
