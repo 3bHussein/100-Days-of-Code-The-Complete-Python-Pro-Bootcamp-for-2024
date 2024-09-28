@@ -41,8 +41,9 @@ add(5,6)
 
 
 def welcome(name):
-  print("welcome ",name)
-  print(name)
+  # print("welcome ",name)
+  print(f'welcome {name} ')
+  # print(name)
   
-
-welcome('hussein')
+x=input('enter your name \n')
+welcome(x)
