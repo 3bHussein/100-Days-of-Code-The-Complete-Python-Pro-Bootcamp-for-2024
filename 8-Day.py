@@ -27,3 +27,22 @@ greet_with("Nowhere", "Jack Bauer")
 #Calling greet_with() with Keyword Arguments
 greet_with(location="London", name="Angela")
 # 
+
+
+
+def add(x ,y):
+  total=x+y
+  print(total)
+
+
+
+add(5,6)
+
+
+
+def welcome(name):
+  print("welcome ",name)
+  print(name)
+  
+
+welcome('hussein')
