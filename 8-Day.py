@@ -45,5 +45,12 @@ def welcome(name):
   print(f'welcome {name} ')
   # print(name)
   
-x=input('enter your name \n')
-welcome(x)
+# x=input('enter your name \n')  
+# welcome(x)
+
+def greet_with(name,location):
+  # print(f'welcome {name}')
+  print("welcome ",input('enter your'))
+  print(f'what is it like {location}')
+  
+greet_with('ahmed','alexandria')
