@@ -53,4 +53,5 @@ def greet_with(name,location):
   print("welcome ",input('enter your'))
   print(f'what is it like {location}')
   
-greet_with('ahmed','alexandria')
+# greet_with('ahmed','alexandria')
+greet_with(name='ahmed',location='alex')
