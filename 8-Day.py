@@ -59,9 +59,19 @@ greet_with(name='ahmed',location='alex')
 
 
 
-def hello (name ,age):
-  print('you name was',input("enter your name"))
-  print('you age',{age})
-  
-hello(name='',age=0)
 
+def hello(name):
+  print('you almost welcome ',name)
+  print(f'you alway welcome {name}')
+
+hello('Havel')
+# KeyWord Arguments
+def total(x,y,z):
+  print('your X',x) #5
+  print('your Y',y) #6
+  print('your Z',z) #7
+
+# Old Way
+total(5,6,7)
+# KeyWord Arguments
+total(z=5,y=7,x=6)
