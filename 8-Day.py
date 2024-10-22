@@ -56,5 +56,12 @@ def greet_with(name,location):
 # greet_with('ahmed','alexandria')
 greet_with(name='ahmed',location='alex')
 
-  # 
+
+
+
+def hello (name ,age):
+  print('you name was',input("enter your name"))
+  print('you age',{age})
+  
+hello(name='',age=0)
 
