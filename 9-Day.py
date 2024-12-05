@@ -29,7 +29,7 @@ for key in empty_list:
     print(key)
 # empty_list['loop']=empty_list['notloop']
 
-# normal Dictionaries
+normal Dictionaries
 capitals={
     'France':'Paris',
     'Germany':'Berlin'
@@ -45,6 +45,7 @@ Travel_log={
 for key in Travel_log['Egypt']:
     print(key)
 print(Travel_log['Egypt'][1])
+
 
 
 # 
