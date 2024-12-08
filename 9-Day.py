@@ -47,15 +47,24 @@ for key in Travel_log['Egypt']:
 print(Travel_log['Egypt'][1])
 
 
-# list
+#Nested  list
 Travel=[
     ["A","B"]
     ,["C","D"]
 ]
 print(Travel[0][1])
-# print(Travel_log['Egypt'][1])
-# Dictionaries on python 
+
+# Nested Dictionaries 
 Travel_logs={
     'Egypt':['alex','cairo'],
     'UAE':['SHJ','Dubai']
 }
+Travel_logsXL={
+    "Egypt":{
+        'city':['Alex','Cairo'],
+        'City_code':['03','02']
+    }
+}
+
+print(Travel_logsXL['Egypt']['City_code'][1])
+print(Travel_logsXL['Egypt'])
