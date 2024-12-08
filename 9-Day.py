@@ -68,3 +68,10 @@ Travel_logsXL={
 
 print(Travel_logsXL['Egypt']['City_code'][1])
 print(Travel_logsXL['Egypt'])
+
+loop={
+    'name':[],
+    'bid':[]
+    
+}
+input(loop.)
