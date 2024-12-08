@@ -47,4 +47,15 @@ for key in Travel_log['Egypt']:
 print(Travel_log['Egypt'][1])
 
 
-# 
+# list
+Travel=[
+    ["A","B"]
+    ,["C","D"]
+]
+print(Travel[0][1])
+# print(Travel_log['Egypt'][1])
+# Dictionaries on python 
+Travel_logs={
+    'Egypt':['alex','cairo'],
+    'UAE':['SHJ','Dubai']
+}
