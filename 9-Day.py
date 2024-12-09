@@ -74,4 +74,4 @@ loop={
     'bid':[]
     
 }
-input(loop.)
+# input(loop.)
