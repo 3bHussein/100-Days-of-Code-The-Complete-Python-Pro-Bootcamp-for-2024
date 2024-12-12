@@ -75,5 +75,3 @@ loop={
     
 }
 # input(loop.)
-
-
